@@ -7,22 +7,22 @@
 
 
 
-<h1 align="center">🚀About Me <h1>
+<h1 align="center">🚀About Me </h1>
   <h3 align="center">At Code With BismiAllah, we're excited to offer internship opportunities for aspiring developers. Our internships provide hands-on experience, mentorship, and the chance to work on real-world projects. Whether you're a student looking to gain practical skills or someone passionate about coding, our internships are designed to help you grow.</h3>
 
 <h1 align="center">📚 What We Offer:</h1>
-<h3 align="center>
-Real-world project experience
-Mentorship from experienced developers
-Opportunities to collaborate and learn
-Flexible work hours to accommodate your schedule
-A supportive and inclusive environment</h3>
-<br-->
+<h3 align="center">- Real-world project experience
+- Mentorship from experienced developers
+- Opportunities to collaborate and learn
+- Flexible work hours to accommodate your schedule
+- A supportive and inclusive environment</h3>
+
+
   
 
 <!--SOCIAL ACCOUNTS-->
 
-
+<h1 align="center">Contact us </h1>
 <p align="center">
 <a href="https://www.youtube.com/@CodeWithBismiAllah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mubashirali" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/code-with-bismiallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashirali8" height="30" width="40" /></a>
@@ -37,7 +37,7 @@ A supportive and inclusive environment</h3>
 
 
 <!--SKILLS-->
-<h1 align="center">Skills</h1>
+<h1 align="center">Commands</h1>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
