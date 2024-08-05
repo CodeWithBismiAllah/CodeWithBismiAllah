@@ -22,7 +22,7 @@ A supportive and inclusive environment</h3>
 
 <!--SOCIAL ACCOUNTS-->
 
-<h2 align="center">Accounts</h2>
+
 <p align="center">
 <a href="https://www.youtube.com/@CodeWithBismiAllah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mubashirali" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/code-with-bismiallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashirali8" height="30" width="40" /></a>
